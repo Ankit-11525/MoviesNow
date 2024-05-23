@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ![Screenshot from 2024-05-23 14-55-29](https://github.com/Ankit-11525/MoviesNow/assets/76417084/3f9fdaa6-d45f-47ad-a9d2-8961da30531c)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
